@@ -1,0 +1,20 @@
+ul { 	list-style-type: none; 	margin: 0; 	padding: 0; 	overflow: hidden; 	background-color: #1b2538; } li { 	float: left; 	border-right: 1px solid #bbbbbb; } li:last-child { 	border-right: none; } li a { 	display: block; 	color: white; 	text-align: center; 	padding: 14px 16px; 	text-decoration: none; } li a:hover:not(.active) { 	background-color: #a9bce2; } .active { 	background-color: #da3c41; }
+
+.resizeimage img { width: 100%; }
+
+.resizeimage { background-color: #000000; } .resizeimage img { display: block; opacity: 0.4; }
+
+ .resizeimage {position: relative; } 
+ .resizeimage img{ width: 100% }.resizeimage p { position: absolute; top: 0%; left: 4%; font-size: 30px; color: #ffffff; } 
+
+div.left { text-align: left; }
+
+.btn--orange, a.btn--orange { color: #fff; background-color: #eb6100; } .btn--orange:hover, a.btn--orange:hover { color: #fff; background: #f56500; }
+
+/* 画面幅の40%の幅で画像を表示 */ .image-vw { width : 40vw ; }
+
+
+
+
+
+
